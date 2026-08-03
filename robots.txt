@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wf1o3t.1casino.co.nz/sitemap.xml
